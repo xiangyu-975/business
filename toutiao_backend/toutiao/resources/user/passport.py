@@ -18,11 +18,6 @@ from utils.limiter import limiter as lmt
 from utils.decorators import set_db_to_read, set_db_to_write
 
 
-# 第一次编写登录功能
-# 第二次编写
-# 第三次编写
-# c = 500
-
 class SMSVerificationCodeResource(Resource):
     """
     短信验证码
