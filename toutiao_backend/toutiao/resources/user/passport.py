@@ -20,7 +20,7 @@ from utils.decorators import set_db_to_read, set_db_to_write
 
 # 第一次编写登录功能
 # 第二次编写
-# a 100
+# c = 500
 # 第三次编写
 
 class SMSVerificationCodeResource(Resource):
